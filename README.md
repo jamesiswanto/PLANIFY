@@ -1,6 +1,6 @@
 # Planify
 
-Planify is a task management web application designed to help users efficiently organize, track, and complete their tasks. With its user-friendly interface and productivity-focused features, Planify ensures users stay on top of their responsibilities while prioritizing effectively.
+Planify is a task planning web application designed to help users efficiently organize, track, and complete their tasks. With its user-friendly interface and productivity-focused features, Planify ensures users stay on top of their responsibilities while prioritizing effectively.
 
 ## Table of Contents
 - [Features](#features)
