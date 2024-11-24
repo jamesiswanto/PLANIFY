@@ -118,13 +118,4 @@ We welcome contributions from the community! If you'd like to contribute:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
-Planify was developed by a collaborative team:
-- Daffa Ramzy Saputra
-- James Michael Siswanto
-- M. Faisal Syahwaludin
-- M. Zakiy Mubarok
-- Nathanael Setiawan
-- Pangeran Maharesi Dunia
-- Pradipa Wibi Herdani
-
 Special thanks to everyone who contributed their time, effort, and creativity to this project.
