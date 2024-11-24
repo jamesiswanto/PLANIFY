@@ -32,7 +32,7 @@ Planify is a task planning web application designed to help users efficiently or
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (Mongoose)
 - **Authentication**: JSON Web Tokens (JWT)
-- **Hosting**: Vercel (Frontend), Render/Heroku (Backend)
+- **Hosting**: Vercel
 
 ## Installation
 Follow these steps to run Planify locally:
