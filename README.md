@@ -32,7 +32,6 @@ Planify is a task planning web application designed to help users efficiently or
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (Mongoose)
 - **Authentication**: JSON Web Tokens (JWT)
-- **Hosting**: Vercel
 
 ## Installation
 Follow these steps to run Planify locally:
@@ -54,7 +53,7 @@ Create a `.env` file in the `backend` folder with the following variables:
 ```
 MONGO_URI=<your-mongodb-connection-string>
 JWT_SECRET=<your-secret-key>
-CLIENT_URL=http://localhost:3000
+CLIENT_URL=http://localhost:3000 or any localhost port that you're using
 PORT=8000
 ```
 
