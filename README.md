@@ -38,7 +38,7 @@ Follow these steps to run Planify locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Planify.git
+git clone https://github.com/jamesiswanto/Planify.git
 cd Planify
 ```
 
